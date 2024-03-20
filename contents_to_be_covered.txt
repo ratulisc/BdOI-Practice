@@ -1,0 +1,6 @@
+List:
+1. vector
+2. for,if else
+3. string
+4. pair
+5. data type

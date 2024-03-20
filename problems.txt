@@ -1,0 +1,8 @@
+1. Take input a vector and find the total sum 
+
+2. Take input  a vector and find the sum of square of the numbers.
+
+3.Take input a vector and find the number of odd numbers.
+
+4. take input a string and find the total number of vowel in the string
+
